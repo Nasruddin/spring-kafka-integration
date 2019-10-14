@@ -33,6 +33,13 @@ docker compose up -d
 ##Testing
 * Now you can open Postman and hit the API
 
-![Alt text](https://github.com/Nasruddin/elasticsearch-spring-boot-spring-data/blob/master/elastic-plugin.png?raw=true "Optional Title")
+![Alt text](https://github.com/Nasruddin/spring-kafka-integration/blob/master/images/publish.JPG "Publisher")
+
+* You can navigate local development environment, check the console for the received message
+![Alt text](https://github.com/Nasruddin/spring-kafka-integration/blob/master/images/consumer.JPG "Publisher")
+
+## Contributors
+Nasruddin @iam_nasir
+Email: nasruddin.java@gmail.com
 
 
